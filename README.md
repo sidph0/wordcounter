@@ -1,6 +1,8 @@
 Wordcounter to (guess what) count words.
 
-<h3><ul>Features</ul></h3>
-* Counts words
-* Frequency of words used
-* # of Unique words used
+<h3>Features</h3>
+<ol>
+<li>Counts words</li>
+<li>Frequency of words used</li>
+<li># of Unique words used</li>
+</ol>
